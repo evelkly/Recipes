@@ -1,0 +1,8 @@
+div.recipe{
+    margin-right: 10px;
+    float: left;
+}
+
+.clearFloats{
+    clear: both;
+}
